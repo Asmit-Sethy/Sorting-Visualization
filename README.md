@@ -15,3 +15,6 @@ Sorting Algorithm Visualizer is a web-based tool that provides an interactive wa
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/sorting-algorithm-visualizer.git
+
+## 🚀 Live Demo
+🔗 **Hosted Website:** https://asmit-sethy.github.io/Sorting-Visualization/
